@@ -1,6 +1,8 @@
-Thank you for using our template!
 
-For more awesome templates please visit https://colorlib.com/wp/templates/
+
+This is the Web Design Event for the 2020 NJ Chemistry Olympics.
+Our website educates users about Persistent Organic Pollutants (POPs)
+
 
 Copyright information for the template can't be altered/removed unless you purchase a license.
 More information about the license is available here: https://colorlib.com/wp/licence/
